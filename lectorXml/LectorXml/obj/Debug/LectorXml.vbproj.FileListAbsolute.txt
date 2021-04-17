@@ -1,0 +1,13 @@
+c:\users\pegaz\onedrive\documentos\visual studio 2015\Projects\LectorXml\LectorXml\bin\Debug\LectorXml.exe.config
+c:\users\pegaz\onedrive\documentos\visual studio 2015\Projects\LectorXml\LectorXml\bin\Debug\LectorXml.exe
+c:\users\pegaz\onedrive\documentos\visual studio 2015\Projects\LectorXml\LectorXml\bin\Debug\LectorXml.pdb
+c:\users\pegaz\onedrive\documentos\visual studio 2015\Projects\LectorXml\LectorXml\bin\Debug\LectorXml.xml
+c:\users\pegaz\onedrive\documentos\visual studio 2015\Projects\LectorXml\LectorXml\obj\Debug\LectorXml.vbprojResolveAssemblyReference.cache
+c:\users\pegaz\onedrive\documentos\visual studio 2015\Projects\LectorXml\LectorXml\obj\Debug\LectorXml.Form1.resources
+c:\users\pegaz\onedrive\documentos\visual studio 2015\Projects\LectorXml\LectorXml\obj\Debug\LectorXml.Resources.resources
+c:\users\pegaz\onedrive\documentos\visual studio 2015\Projects\LectorXml\LectorXml\obj\Debug\LectorXml.vbproj.GenerateResource.Cache
+c:\users\pegaz\onedrive\documentos\visual studio 2015\Projects\LectorXml\LectorXml\obj\Debug\LectorXml.exe
+c:\users\pegaz\onedrive\documentos\visual studio 2015\Projects\LectorXml\LectorXml\obj\Debug\LectorXml.xml
+c:\users\pegaz\onedrive\documentos\visual studio 2015\Projects\LectorXml\LectorXml\obj\Debug\LectorXml.pdb
+c:\users\pegaz\onedrive\documentos\visual studio 2015\Projects\LectorXml\LectorXml\bin\Debug\System.Net.Http.dll
+c:\users\pegaz\onedrive\documentos\visual studio 2015\Projects\LectorXml\LectorXml\bin\Debug\System.Net.Http.xml
